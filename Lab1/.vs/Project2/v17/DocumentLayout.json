@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task3_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task7_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task6_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task5_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6A49A5-5A36-41FD-B497-6F4AECA028DB}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task4_testcase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "task5_testcase.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5_testcase.cpp",
+              "RelativeDocumentMoniker": "Project2\\task5_testcase.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5_testcase.cpp",
+              "RelativeToolTip": "Project2\\task5_testcase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:40:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task3.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3.cpp",
+              "RelativeDocumentMoniker": "Project2\\task3.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3.cpp",
+              "RelativeToolTip": "Project2\\task3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:23:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task5.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5.cpp",
+              "RelativeDocumentMoniker": "Project2\\task5.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task5.cpp",
+              "RelativeToolTip": "Project2\\task5.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:27:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task6.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6.cpp",
+              "RelativeDocumentMoniker": "Project2\\task6.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6.cpp",
+              "RelativeToolTip": "Project2\\task6.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:27:23.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task7.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7.cpp",
+              "RelativeDocumentMoniker": "Project2\\task7.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7.cpp",
+              "RelativeToolTip": "Project2\\task7.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:27:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task7_testcase.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7_testcase.cpp",
+              "RelativeDocumentMoniker": "Project2\\task7_testcase.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task7_testcase.cpp",
+              "RelativeToolTip": "Project2\\task7_testcase.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:41:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task4.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4.cpp",
+              "RelativeDocumentMoniker": "Project2\\task4.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4.cpp",
+              "RelativeToolTip": "Project2\\task4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:26:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hello.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\hello.cpp",
+              "RelativeDocumentMoniker": "Project2\\hello.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\hello.cpp",
+              "RelativeToolTip": "Project2\\hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T09:41:53.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task3_testcase.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3_testcase.cpp",
+              "RelativeDocumentMoniker": "Project2\\task3_testcase.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task3_testcase.cpp",
+              "RelativeToolTip": "Project2\\task3_testcase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:40:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task6_testcase.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6_testcase.cpp",
+              "RelativeDocumentMoniker": "Project2\\task6_testcase.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task6_testcase.cpp",
+              "RelativeToolTip": "Project2\\task6_testcase.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:40:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "task4_testcase.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4_testcase.cpp",
+              "RelativeDocumentMoniker": "Project2\\task4_testcase.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Project2\\Project2\\task4_testcase.cpp",
+              "RelativeToolTip": "Project2\\task4_testcase.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T11:40:32.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

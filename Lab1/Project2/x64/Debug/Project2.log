@@ -1,0 +1,40 @@
+﻿  FileName.cpp
+  task3.cpp
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(81,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(82,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(95,6): error C2084: function 'void testCase1(void)' already has a body
+      C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(15,6):
+      see previous definition of 'testCase1'
+  
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(103,6): error C2084: function 'void testCase2(void)' already has a body
+      C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(32,6):
+      see previous definition of 'testCase2'
+  
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(111,6): error C2084: function 'void testCase3(void)' already has a body
+      C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(49,6):
+      see previous definition of 'testCase3'
+  
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(126,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(66,5):
+      see previous definition of 'main'
+  
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(221,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(236,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(246,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(256,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(319,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\FileName.cpp(358,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task3.cpp(52,12): error C2466: cannot allocate an array of constant size 0
+  task4.cpp
+C:\Users\Lenovo\source\repos\Project2\Project2\task4.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task4.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task5.cpp
+  task6.cpp
+  task7.cpp
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(20,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(35,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(45,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(55,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(118,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\Project2\Project2\task7.cpp(157,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
